@@ -59,7 +59,7 @@ multimodal_sentiment_analysis/
 ## 运行流程
 
 ### 1. 数据准备
-- 首先，下载`实验五数据`，并从huggingface.co/bert-base-uncased 手动下载模型文件（pytorch_model.bin、config.json、vocab.txt）储存到`my_local_bert_base_uncased`文件夹中。
+- 首先，下载`实验五数据`，并从 [huggingface.co/bert-base-uncased](https://huggingface.co/bert-base-uncased/tree/main) 手动下载模型文件（pytorch_model.bin、config.json、vocab.txt）储存到`my_local_bert_base_uncased`文件夹中。
 
 
 ### 2. 模型训练
